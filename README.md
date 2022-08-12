@@ -27,7 +27,7 @@ Execute `mvn clean install` to build and compile the project. This will also gen
 Simply run the `ChatApplication.java` as a normal Java application. This will start the server. See the `resources/application.properties` file for server details. By default it runs on http://localhost:8000.
 
 #### Envoy Proxy
-To build and run the Docker container, follow the instructions below. 
+To build and run the Docker container, follow the instructions below.
 
 ###### Windows
 Execute the following Docker commands to build and run the EnvoyProxy container:
